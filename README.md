@@ -6,7 +6,6 @@ Horiseon Website Deployment
 ## Following challenges were resolved:
 
  to prepare you for a scenario that we are likely to encounter as a web developer.
-
 User story was created: 
 
 ```
